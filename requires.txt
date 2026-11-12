@@ -1,0 +1,7 @@
+numpy>=1.26
+matplotlib>=3.8
+PySide6>=6.6
+
+[test]
+pytest>=8.0
+hypothesis>=6.100
